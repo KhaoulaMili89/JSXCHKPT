@@ -1,0 +1,20 @@
+.IMG
+{
+
+  display: flexbox;
+  justify-content: space-between;
+
+}
+img{
+    width: 450px;
+  height: 400px;   
+ padding: 0 120px 20px;
+
+}
+.Video
+{
+ 
+  padding: 0 400px;
+height: 600px;
+width: 600px;
+}
